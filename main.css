@@ -1,0 +1,44 @@
+.container {
+    background-image: url(https://image.freepik.com/vector-gratis/ondas-curvas-azules-fondo-abstracto_72147496920.jpg);
+    color: rgb(13, 13, 14);
+    text-align: center;
+    line-height: 2em;
+    font-size: 1em;
+}
+.header {
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    border-radius: 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+#survey-form {
+    background-color: rgba(78, 99, 105, 0.445);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin: auto;
+    margin-bottom: 30px;
+    width: 90%;
+    max-width: 500px;
+    border-radius: 20px;
+    padding: 30px;
+    text-align: left;
+}
+.obligate {
+    color: blue;
+}
+#message {
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 30px;
+    width: 86%;
+}
+#submit {
+    display: block;
+    position: relative;
+    margin-left: 48%;
+    border-radius: 5px;
+}
